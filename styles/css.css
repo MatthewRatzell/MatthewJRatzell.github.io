@@ -5,7 +5,10 @@
     justify-content: center;
     align-items: center;
 }
-
+body{
+    margin: 0px;
+    background-color: turquoise;
+}
 .mygrid{
     display: grid;
     width: 80%;
